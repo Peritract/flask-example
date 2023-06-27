@@ -26,3 +26,4 @@ Documentation is absolutely vital.
 | --- | --- | --- | --- |
 | `/` | `GET` | A nice message | | 
 | `/company` | `GET` | A list of company information | `country` - filter by location |
+| `/company` | `POST`| Create a new company based on JSON data | |
